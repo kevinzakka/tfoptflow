@@ -50,7 +50,7 @@ import os
 import warnings
 import numpy as np
 import cv2
-from skimage.io import imsave
+from imageio import imsave
 
 from utils import clean_dst_file
 
